@@ -6,7 +6,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>Charter-Application-rest-spring-boot-jpa-logback-impl</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>Charter-Application-rest-spring-boot-jpa-logback-impl</name>
 	<description>project for Spring Boot Charter-Application-rest-spring-boot-jpa-logback-impl</description>
